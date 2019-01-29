@@ -23,21 +23,9 @@ guiTypes = {
 
 		iconType = {
 			name = "icon"
-			spriteType = "GFX_select_date_1936"
+			spriteType = "GFX_select_date_1857"
 			position = { x = 27 y = 28 }
 			allwaystransparent = yes
-		}
-
-		instantTextBoxType = {
-			name = "date"
-			position = { x = 22 y = 147 }
-			font = "hoi_20b"
-			borderSize = {x = 0 y = 0}
-			text = "FE_BOOKMARK_DATE"
-			maxWidth = 185
-			maxHeight = 20
-			fixedsize = yes	
-			format = centre
 		}
 	}
 	
@@ -501,7 +489,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "history_title"
-			position = { x = 110 y = 275 }
+			position = { x = 110 y = 350 }
 			font = "hoi_20b"
 			borderSize = {x = 0 y = 0}
 			text = "BM_HISTORY_TITLE"
@@ -522,7 +510,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "bookmark_desc"
-			position = { x = 25 y = 330 }
+			position = { x = 25 y = 380 }
 			font = "hoi4_typewriter16"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 540
@@ -532,7 +520,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "back_button"
-			position = { x = 30 y = -57 }
+			position = { x = 30 y = -30 }
 			quadTextureSprite ="GFX_button_221x34"	
 			buttonText = "BACK"
 			buttonFont = "hoi_18mbs"
@@ -544,7 +532,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "select_button"
-			position = { x = -252 y = -57 }
+			position = { x = -252 y = -30 }
 			quadTextureSprite ="GFX_button_221x34"
 			buttonText = "FE_SELECT_SCENARIO"
 			buttonFont = "hoi_18mbs"
