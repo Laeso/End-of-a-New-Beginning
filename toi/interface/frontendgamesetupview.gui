@@ -573,6 +573,30 @@ guiTypes = {
 			format = centre
 		}
 		
+		# instantTextBoxType = {
+			# name = "major_countries"
+			# position = { x = 100 y = 0 }
+			# textureFile = ""
+			# font = "hoi_24header"
+			# borderSize = {x = 0 y = 0}
+			# text = "IC_MAJOR_COUNTRIES"
+			# maxWidth = 340
+			# maxHeight = 30	
+			# format = left
+		# }
+		
+		# instantTextBoxType = {
+			# name = "minor_countries"
+			# position = { x = 100 y = -20 }
+			# textureFile = ""
+			# font = "hoi_24header"
+			# borderSize = {x = 0 y = 0}
+			# text = "IC_MINOR_COUNTRIES"
+			# maxWidth = 340
+			# maxHeight = 30	
+			# format = left
+		# }
+		
 		background = {
 			name = "single_player_country_bg"
 			quadTextureSprite ="GFX_country_selection_bg"

@@ -2,8 +2,8 @@ bookmarks = {
   bookmark = {
     name = "NOON_OF_EMPIRES_NAME"
     desc = "NOON_OF_EMPIRES_DESC"
-    date = 1882.8.21
-    picture = "GFX_select_date_1870"
+    date = 1885.1.1
+    picture = "GFX_select_date_1885"
     default_country = "PRS"
     default = yes
 
@@ -15,6 +15,18 @@ bookmarks = {
       }
       focuses = {
         
+      }
+    }
+    "PRS" = {
+      history = "PRS_NOON_OF_EMPIRES_DESC"
+      ideology = autocracy
+      ideas={
+       
+      }
+      focuses = {
+        PRS_unlock_germany
+        PRS_focus_new_candidate
+        PRS_the_army
       }
     }
     "USA" = {
@@ -58,7 +70,7 @@ bookmarks = {
       }
     } 
 
-    "ITA" = {
+    "PIE" = {
       history = "ITA_NOON_OF_EMPIRES_DESC"
       ideology = centrism
       ideas={
