@@ -1,0 +1,7 @@
+﻿l_german:
+ CAN_move_capital:0 "Bewegen Sie unser Kapital"
+ CAN_move_capital_toronto:0 "Bleib in Toronto"
+ CAN_move_capital_ottawa:0 "Umzug nach Ottawa"
+ CAN_move_capital_montreal:0 "Umzug nach Montreal"
+ CAN_idea_toronto:0 "Hauptstadt blieb in Toronto"
+ CAN_idea_montreal:0 "Hauptstadt wurde nach Montreal verlegt"
