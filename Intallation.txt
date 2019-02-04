@@ -1,9 +1,14 @@
-Congratulations, you have succeeded in downloading End of a new Beginning from GitHub!
 
-To install the mod, simply place the "toi" folder and the "toi" file in "Documents/Paradox Interactive/Hearts of Iron IV/mod"
+Herzlichen Glückwunsch, es ist Ihnen gelungen, End of a new Beginning von GitHub herunterzuladen!
 
-If you have file extensions enabled, the "toi" file may be called "toi.mod"
 
-The "LICENSE" and "README" files are just for GitHub and can be deleted.
+Um den Mod zu installieren, platzieren Sie einfach den Ordner "toi" und die "toi" Datei in "Documents\Paradox Interactive\Hearts of Iron IV\mod".
+Falls der mod Ordner nicht zu finden ist dann erstellen sie ihn einfach und pletzieren sie die Dateien einfach darin.
 
-Have fun!
+Falls Sie Dateierweiterungen aktiviert haben, kann die "toi" Datei "toi.mod" genannt werden.
+
+
+Die Dateien "LICENSE" und "README" sind nur für GitHub und können gelöscht werden.
+
+Viel Spaß!
+Übersetzung wurde von (Twitter)@Craftbubi Erstellt
